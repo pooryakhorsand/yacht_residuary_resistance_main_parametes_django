@@ -1,5 +1,4 @@
-# yacht_residuary_resistance_main_parametes_django
-
+# Yacht Ship Parameter Prediction
 
 ## Overview
 Welcome to the Yacht Ship Parameter Prediction project! This project utilizes machine learning techniques to predict hydrostatic and hydrodynamic parameters of a yacht ship based on three main input parameters: Length (L), Beam, and Draft. By leveraging advanced algorithms, the model aims to provide accurate estimations for various crucial ship characteristics.
@@ -24,5 +23,3 @@ See the Yacht Ship Parameter Prediction model in action:
 
 
 In this demo, observe how the model takes input parameters and generates predictions for hydrostatic and hydrodynamic parameters.
-
-
