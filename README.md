@@ -1,0 +1,1 @@
+# yacht_residuary_resistance_main_parametes_django
